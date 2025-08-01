@@ -91,6 +91,7 @@ python app.py
 
 **Diagrams**
 
+# Schematic & Circuit
 <img width="2048" height="2048" alt="ARCHITECTURE" src="https://github.com/user-attachments/assets/bf98d645-e846-436f-8e8f-58e47f70a011" />
 **Caption:** Architecture diagram showing the data flow from the ESP8266 coaster, across the Wi-Fi network to the Flask server, which then communicates with Google's AI & TTS APIs before playing the final audio on the laptop.
 
@@ -110,6 +111,7 @@ python app.py
 **Video**
 
 `https://drive.google.com/drive/folders/1oMwyX-DQe85ZkyySmYkZdrJtXqmmoJzb?usp=sharing`
+
 **Caption:** A short video demonstrating the full end-to-end functionality: a cup is placed on the coaster, the logs appear on the screens, and the unique AI-generated audio is played from the laptop's speakers.
 
 ### Team Contributions
