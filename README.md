@@ -1,7 +1,4 @@
 # SAMCHAYA-BY-TEAM-TRASH
-Of course. Here is the full version of the README with the new name "Samchaya".
-
------
 
 # "Samchaya" - The Talking Tea Coaster 🎯
 
@@ -87,6 +84,8 @@ python app.py
 **Caption:** The Python server terminal after receiving a trigger, showing the AI-generated dialogue before it is converted to speech.
 
 **Diagrams**
+![Uploading image.png…]()
+
 
 **Caption:** Architecture diagram showing the data flow from the ESP8266 coaster, across the Wi-Fi network to the Flask server, which then communicates with Google's AI & TTS APIs before playing the final audio on the laptop.
 
