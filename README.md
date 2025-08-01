@@ -84,20 +84,18 @@ python app.py
 **Caption:** The Python server terminal after receiving a trigger, showing the AI-generated dialogue before it is converted to speech.
 
 **Diagrams**
-![Uploading image.png…]()
+<img width="2048" height="2048" alt="ARCHITECTURE" src="https://github.com/user-attachments/assets/bf98d645-e846-436f-8e8f-58e47f70a011" />
 
 
 **Caption:** Architecture diagram showing the data flow from the ESP8266 coaster, across the Wi-Fi network to the Flask server, which then communicates with Google's AI & TTS APIs before playing the final audio on the laptop.
 
 #### For Hardware:
-
-**Schematic & Circuit**
-
-**Caption:** A photo of the final circuit on the breadboard, showing the connections between the NodeMCU ESP8266, DHT11 sensor, and IR sensor.
-
 **Build Photos**
+![WhatsApp Image 2025-08-02 at 02 05 35_4b5b5bd2](https://github.com/user-attachments/assets/ce1e4d6b-8b3e-4746-8ccd-a9815c7c4646)
 
 **Caption:** All the hardware components used in the project laid out: NodeMCU ESP8266, DHT11, IR Sensor, Breadboard, and Jumper Wires.
+
+![WhatsApp Image 2025-08-02 at 02 19 55_41153f31](https://github.com/user-attachments/assets/6d17f7a4-13b4-4637-bfac-cfab196d6767)
 
 **Caption:** The final Samchaya Coaster prototype in action with a cup of tea placed on it.
 
