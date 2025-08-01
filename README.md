@@ -38,7 +38,7 @@ The **Samchaya** coaster is a hyper-intelligent, slightly judgmental beverage co
 
   * **Main Components:** NodeMCU ESP8266, DHT11 Temperature Sensor, IR Proximity Sensor
   * **Specifications:** Wi-Fi enabled microcontroller, digital temperature/humidity sensing, infrared presence detection.
-  * **Tools Required:** Solderless Breadboard, Jumper Wires, Micro-USB Data Cable
+  * **Tools Required:** Jumper Wires, Micro-USB Data Cable
 
 ### Implementation
 
