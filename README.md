@@ -80,13 +80,17 @@ python app.py
 <img width="1617" height="653" alt="image" src="https://github.com/user-attachments/assets/312b9ff5-6d25-4ba4-80d3-5d489768afd3" />
 **Caption:** The Python Flask server running successfully in the terminal, showing the local network IP address it's listening on.
 
+
 ![WhatsApp Image 2025-08-02 at 02 05 35_4b5b5bd2](https://github.com/user-attachments/assets/ce1e4d6b-8b3e-4746-8ccd-a9815c7c4646)
 **Caption:** The Arduino IDE Serial Monitor showing the ESP8266 connecting to Wi-Fi and successfully sending a GET request to the server upon cup detection.
+
 
 <img width="1907" height="185" alt="image" src="https://github.com/user-attachments/assets/e579dc5b-cef6-450d-81eb-9947a242616a" />
 **Caption:** The Python server terminal after receiving a trigger, showing the AI-generated dialogue before it is converted to speech.
 
+
 **Diagrams**
+
 <img width="2048" height="2048" alt="ARCHITECTURE" src="https://github.com/user-attachments/assets/bf98d645-e846-436f-8e8f-58e47f70a011" />
 **Caption:** Architecture diagram showing the data flow from the ESP8266 coaster, across the Wi-Fi network to the Flask server, which then communicates with Google's AI & TTS APIs before playing the final audio on the laptop.
 
@@ -96,8 +100,10 @@ python app.py
 ![WhatsApp Image 2025-08-02 at 02 10 25_83216993](https://github.com/user-attachments/assets/816650d2-e45b-4d7a-9b72-c23e5bcc305e)
 **Caption:** All the hardware components used in the project laid out: NodeMCU ESP8266, DHT11, IR Sensor, Breadboard, and Jumper Wires.
 
+
 ![WhatsApp Image 2025-08-02 at 02 19 55_41153f31](https://github.com/user-attachments/assets/6d17f7a4-13b4-4637-bfac-cfab196d6767)
 **Caption:** The final Samchaya Coaster prototype in action with a cup of tea placed on it.
+
 
 ### Project Demo
 
